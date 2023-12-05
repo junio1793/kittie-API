@@ -1,0 +1,4 @@
+com\kittyProject\restTemplate\exceptions\EmptyPayload.class
+com\kittyProject\restTemplate\controller\CatsApi.class
+com\kittyProject\restTemplate\RabbitMqConfig\FanoutExchangeQueue.class
+com\kittyProject\restTemplate\KittyRestApplication.class
